@@ -1,6 +1,6 @@
 # Partially Coherent Mixing for Nine-Stem Source Separation of Korean Traditional (Gugak) Ensembles
 
-Listening demo for the ISMIR 2026 Late-Breaking Demo — static page, served from this repo via GitHub Pages: https://jae-gye.github.io/gugak-demo-v3/
+Listening demo for the ISMIR 2026 Late-Breaking Demo — static page, served from this repo via GitHub Pages: https://malerlab.github.io/gugak-demo-v3/
 
 ## Provenance
 
